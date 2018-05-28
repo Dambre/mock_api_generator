@@ -1,5 +1,4 @@
-# CMFPythonMockServer
-
+# Mock API generator
 This collection of python scripts is for mocking request/response for Android, iOS, API.
 You can use it on aws since it is deployed but for more verbosity you can run it locally.
 There are few scripts which you can run:
